@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. Fahad Alam Fahim</h1>
-<h3 align="center">Full-Stack Developer | JavaScript Enthusiast | Bangladesh 🇧🇩</h3>
+<h3 align="center">Front end Developer | JavaScript Enthusiast | Bangladesh 🇧🇩</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fahimpro-jpg&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 - 🔭 I'm currently working on **MERN Stack Projects**
-- 🌱 Learning **Advanced React, Node.js & DevOps**
+- 🌱 Learning **Advanced React, Node.js **
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
 - ⚡ Fun fact: *"I break code to fix code!"*
 
@@ -19,7 +19,7 @@
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ### **Backend**
