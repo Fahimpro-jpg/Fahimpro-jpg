@@ -1,15 +1,90 @@
-<h1 align="center"> I'm MD.Fahad Alam Fahim</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm MD. Fahad Alam Fahim</h1>
+<h3 align="center">Full-Stack Developer | JavaScript Enthusiast | Bangladesh 🇧🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimpro-jpg&label=Profile%20views&color=0e75b6&style=flat" alt="fahimpro-jpg" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/md.fahad alam fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.fahad alam fahim" height="30" width="40" /></a>
-<a href="https://instagram.com/md. fahad alam fahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md. fahad alam fahim" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fahimpro-jpg&label=Profile%20Views&color=blue&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimpro-jpg&show_icons=true&locale=en&layout=compact" alt="fahimpro-jpg" /></p>
+## 🚀 About Me
+- 🔭 I'm currently working on **MERN Stack Projects**
+- 🌱 Learning **Advanced React, Node.js & DevOps**
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
+- ⚡ Fun fact: *"I break code to fix code!"*
+
+---
+
+## 🧰 Tech Stack
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,redux" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### **Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,postman" />
+</p>
+
+### **Design**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fahimpro-jpg&show_icons=true&theme=radical" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimpro-jpg&layout=compact&theme=radical" height="170" />
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=fahimpro-jpg&theme=radical" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://facebook.com/md.fahadalamfahim" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" height="40" />
+</a>
+<a href="mailto:fahadalamfahim@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+<a href="https://instagram.com/md.fahad_alam_fahim" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
+</p>
+
+---
+
+## ⭐ Pinned Projects
+
+### 🔹 **Portfolio Website**
+A modern, fully responsive portfolio built with React, Tailwind, Framer Motion.  
+👉 *Showcasing skills, experience & projects.*
+
+### 🔹 **WarmPaws – Pet Care Web App**
+A MERN app that helps pet owners discover services & tips.  
+👉 Built with React, Node, Express, MongoDB.
+
+---
+
+## ✨ Quote  
+> **Code. Learn. Build. Repeat.**
+
